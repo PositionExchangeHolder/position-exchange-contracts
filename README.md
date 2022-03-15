@@ -2,6 +2,10 @@
 
 ## Contracts
 
+### Position Token
+- Source code: [Here](./contracts/position-token/README.md)
+- Address: [0x5ca42204cdaa70d5c773946e69de942b85ca6706](https://bscscan.com/address/0x5ca42204cdaa70d5c773946e69de942b85ca6706)
+
 ### Referral
 - Source code: [Here](./contracts/referral/README.md)
 - Address: [0xfe2d545d214d51e8028947cfd15c9439d3de3a33](https://bscscan.com/address/0xfe2d545d214d51e8028947cfd15c9439d3de3a33)
