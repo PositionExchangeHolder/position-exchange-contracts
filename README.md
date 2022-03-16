@@ -6,6 +6,17 @@
 - Source code: [Here](./contracts/position-token/README.md)
 - Address: [0x5ca42204cdaa70d5c773946e69de942b85ca6706](https://bscscan.com/address/0x5ca42204cdaa70d5c773946e69de942b85ca6706)
 
+### Bond
+#### Bond01
+- Source code: [Here](./contracts/bond/README.md)
+- Address: [0xd4c9123e011066a971fb78d4015cd3f0b8126e75](https://bscscan.com/address/0xd4c9123e011066a971fb78d4015cd3f0b8126e75)
+
+#### Bond02
+- Source code: [Here](./contracts/bond/README.md)
+- Address: [0x77d2e86c25792ed30d17e6fc8334a09f6347f5a4](https://bscscan.com/address/0x77d2e86c25792ed30d17e6fc8334a09f6347f5a4)
+#### Bond03
+- Source code: [Here](./contracts/bond/README.md)
+- Address: [0xD3462c5C15F90D41eb920888F9080ac64488d16b](https://bscscan.com/address/0xD3462c5C15F90D41eb920888F9080ac64488d16b)
 ### Referral
 - Source code: [Here](./contracts/referral/README.md)
 - Address: [0xfe2d545d214d51e8028947cfd15c9439d3de3a33](https://bscscan.com/address/0xfe2d545d214d51e8028947cfd15c9439d3de3a33)
