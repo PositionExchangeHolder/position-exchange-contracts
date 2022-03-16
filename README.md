@@ -21,6 +21,9 @@
 #### PosiNFTMintProxy
 - Address: [0x0fb07a8527f45d7625ab6486718910ce44a608b5](https://bscscan.com/address/0x0fb07a8527f45d7625ab6486718910ce44a608b5)
 
+### Position NFT Marketplace
+- Source code [Here](./contracts/nft-marketplace/README.md)
+- Address: [0x05e5b3cd263c4cd40cfa74b5e221dbede60c632e](https://bscscan.com/address/0x05e5b3cd263c4cd40cfa74b5e221dbede60c632e)
 
 ### Bond
 - Source code: [Here](./contracts/bond/README.md)
