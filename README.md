@@ -6,6 +6,10 @@
 - Source code: [Here](./contracts/position-token/README.md)
 - Address: [0x5ca42204cdaa70d5c773946e69de942b85ca6706](https://bscscan.com/address/0x5ca42204cdaa70d5c773946e69de942b85ca6706)
 
+### Staking
+- Source cod: [Here](./contracts/staking/README.md)
+- Address: [0x0c54b0b7d61de871db47c3ad3f69feb0f2c8db0b](https://bscscan.com/address/0x0c54b0b7d61de871db47c3ad3f69feb0f2c8db0b)
+
 ### Position NFT
 - Source code [Here](./contracts/position-nft/README.md)
 
