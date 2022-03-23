@@ -20,7 +20,8 @@
 - Address: [0x9d95b5ea6c8f678b7486be7a6331ec10a54156bd](https://bscscan.com/address/0x9d95b5ea6c8f678b7486be7a6331ec10a54156bd)
 
 #### NFTRewardPool
-- Address: [0xbe9ff181bfa9dd78191b81b23fd4ff774a3fb4f1](https://bscscan.com/address/0xbe9ff181bfa9dd78191b81b23fd4ff774a3fb4f1)
+- V1: Address: [0xbe9ff181bfa9dd78191b81b23fd4ff774a3fb4f1](https://bscscan.com/address/0xbe9ff181bfa9dd78191b81b23fd4ff774a3fb4f1)
+- V2: Address [0x6257229fa379afdbb91732091b5de32cdb759845](https://bscscan.com/address/0x6257229fa379afdbb91732091b5de32cdb759845)
 
 #### PosiNFTMintProxy
 - Address: [0x0fb07a8527f45d7625ab6486718910ce44a608b5](https://bscscan.com/address/0x0fb07a8527f45d7625ab6486718910ce44a608b5)
