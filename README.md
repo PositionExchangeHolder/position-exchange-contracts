@@ -7,8 +7,9 @@
 - Address: [0x5ca42204cdaa70d5c773946e69de942b85ca6706](https://bscscan.com/address/0x5ca42204cdaa70d5c773946e69de942b85ca6706)
 
 ### Staking
-- Source cod: [Here](./contracts/staking/README.md)
-- Address: [0x0c54b0b7d61de871db47c3ad3f69feb0f2c8db0b](https://bscscan.com/address/0x0c54b0b7d61de871db47c3ad3f69feb0f2c8db0b)
+- Source code: [Here](./contracts/staking/README.md)
+- StakingPool Address: [0x0c54b0b7d61de871db47c3ad3f69feb0f2c8db0b](https://bscscan.com/address/0x0c54b0b7d61de871db47c3ad3f69feb0f2c8db0b)
+- SmartChef Address: [0x7663bba335a22edd8da8f5c77fdaa43a5e4fea95](https://bscscan.com/address/0x7663bba335a22edd8da8f5c77fdaa43a5e4fea95)
 
 ### Position NFT
 - Source code [Here](./contracts/position-nft/README.md)
